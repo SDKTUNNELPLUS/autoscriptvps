@@ -6,7 +6,7 @@
 <p align="center"><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=debian&label=Debian%209&message=Stretch&color=purple"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=debian&label=Debian%2010&message=Buster&color=purple">  <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=ubuntu&label=Ubuntu%2018&message=Lts&color=red"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=ubuntu&label=Ubuntu%2020&message=Lts&color=red">
 </p>
   
-# Diperlukan
+# Requerido
 <br>
 - DOMAIN (WAJIB)<br>
 - DEBIAN 9/10<br>
@@ -115,7 +115,7 @@
 
  ### Server Information & Other Features
 
-• Timezone                : Asia/Jakarta (GMT +7)
+• Timezone                : America/Caracas (GMT +7)
 
 • Fail2Ban                : [ON]
 
@@ -144,26 +144,6 @@ apt-get update && apt-get upgrade -y && apt-get dist-upgrade -y && reboot
 ```
 rm -f setup.sh && sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl unzip && wget https://raw.githubusercontent.com/givpn/autoscriptvps/master/setup.sh && chmod +x setup.sh && ./setup.sh
 ```
-
-# Hubungi saya jika ada yang perlu ditanyakan
-# Telegram
-[![Telegram-chat](https://img.shields.io/badge/Chat-Telegram-blue)](https://t.me/givpn/)
-[![Telegram-grup](https://img.shields.io/badge/Grup-Telegram-blue)](https://t.me/givpn_grup/)
-
-# Belikan saya kopi
-[![PayPal donate button](https://img.shields.io/badge/Donate-PayPal-yellow)](https://paypal.me/givpn11)
-[![QRIS donate button](https://img.shields.io/badge/Donate-QRIS-red)](https://raw.githubusercontent.com/givpn/AutoScriptXray/master/image/qris-givpn.jpg)
-[![Bitcoin donate button](https://img.shields.io/badge/Donate-Bitcoin-orange)](https://www.blockchain.com/explorer/addresses/btc/3BE1deCJcuykuTHMzmrmNYgN51E24Hix8i)
-[![Ethereum donate button](https://img.shields.io/badge/Donate-Ethereum-blue)](https://www.blockchain.com/explorer/addresses/eth/0x3eb09df9a72e8e333e202116ff3eb348b3ebf554)
-
-# List Donate
-[![donate button](https://img.shields.io/badge/List-Donate-green)](https://github.com/givpn/donate)
-  
-# PERHATIAN BACA SECARA SEKSAMA
-- DILARANG DIPERJUAL BELIKAN KARENA SAYA MENDAPATKAN SECARA GRATIS DARI INTERNET
-- GUNAKAN SECARA BIJAK
-# PESAN AKHIR
-- TERIMAKASIH SUDAH MELUANGKAN WAKTU UNTUK MEMBACA
 
 # LICENSI POLISI TIDUR
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
