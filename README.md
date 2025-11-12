@@ -114,7 +114,7 @@
 
  ### Server Information & Other Features
 
-• Timezone                : America/Caracas (GMT +7)
+• Timezone                : America/Caracas (UTC -4)
 
 • Fail2Ban                : [ON]
 
