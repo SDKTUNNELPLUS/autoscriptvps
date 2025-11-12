@@ -1,4 +1,4 @@
-# Langsung install  IP VPS
+# Lenguaje install  IP VPS
 </p> 
 <h2 align="center"> Supported Linux Distribution</h2>
 <p align="center"><img src="https://d33wubrfki0l68.cloudfront.net/5911c43be3b1da526ed609e9c55783d9d0f6b066/9858b/assets/img/debian-ubuntu-hover.png"></p> 
@@ -141,7 +141,7 @@ apt-get update && apt-get upgrade -y && apt-get dist-upgrade -y && reboot
 ```
 - Step 2 Install
 ```
-rm -f setup.sh && sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl unzip && wget https://raw.githubusercontent.com/givpn/autoscriptvps/master/setup.sh && chmod +x setup.sh && ./setup.sh
+rm -f setup.sh && sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl unzip && wget https://raw.githubusercontent.com/SDKTUNNELPLUS/autoscriptvps/master/setup.sh && chmod +x setup.sh && ./setup.sh
 ```
 
 # LICENSI POLISI TIDUR
